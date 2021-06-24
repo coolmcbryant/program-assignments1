@@ -10,3 +10,18 @@ letter = f
 
 print(name, timesRepeated, letter)
 type (f)
+print("hello world again!!!")
+
+burger = False
+fries = False
+drink = False
+rings = False
+
+if(burger):
+    print("hello again")
+elif(fries):
+    print("guess not!")
+elif(cdrink):
+    print("cool cool!")
+else:
+    print(rings)
