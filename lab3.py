@@ -1,6 +1,5 @@
 lab3.py
 
-#Pull example!
 
 
 for i in range(2,100):
